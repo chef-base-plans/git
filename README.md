@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/chefcorp-partnerengineering/Chef%20Base%20Plans/_apis/build/status/chef-base-plans.git?branchName=master)](https://dev.azure.com/chefcorp-partnerengineering/Chef%20Base%20Plans/_build/latest?definitionId=72&branchName=master)
+
 # git
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
