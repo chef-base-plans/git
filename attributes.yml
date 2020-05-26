@@ -1,2 +1,0 @@
-git_path: '/bin/git'
-git_test: '/bin/git --version'
